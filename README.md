@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @vansdiary
+- 👀 I’m interested in ...conveying creativity with code.
+- 🌱 I’m currently learning ...html5, css3 and JS through the odin project/freecodecamp.
+- 💞️ I’m looking to collaborate on ...anything I feel will challenge me and improve my skills as a developer!
+- 📫 How to reach me ...github is sufficient for now. :)
